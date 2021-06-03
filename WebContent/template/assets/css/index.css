@@ -1,0 +1,14 @@
+@charset "utf-8";
+.box-bg{
+  height: 100%;
+
+  margin: 0;
+	
+}
+.index-bg {
+	height: 100%;
+	background-image: url("../img/부직포_dark.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
